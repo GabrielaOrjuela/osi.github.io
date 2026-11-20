@@ -1,0 +1,4 @@
+{
+    "chat.agentSessionProjection.enabled": true,
+    "github.copilot.chat.switchAgent.enabled": true
+}
